@@ -1,0 +1,82 @@
+body {
+  background-image: url("/icons-images/Groupe 59@2x.png"); }
+
+/* Liste des suspects */
+.suspects-row {
+  padding-bottom: 50px; }
+
+.suspects-img {
+  width: 30%;
+  height: 30%; }
+
+#suspects-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #FFFFFF; }
+
+#suspect-container {
+  background-color: rgba(255, 111, 96, 0.3);
+  margin-top: 100px;
+  border-radius: 30px; }
+
+/* Navbar */
+.navbar .navbar-brand #logo {
+  position: relative;
+  width: 170px;
+  left: 15px;
+  background-size: contain; }
+.navbar #navbarNav .navbar-nav .nav-item .nav-link {
+  color: #FFFFFF;
+  border-bottom: 1px solid #FFFFFF; }
+
+.card-img {
+  margin-top: 100px; }
+
+.card {
+  background-color: #432254;
+  background-image: url("/icons-images/Groupe 60@2x.png");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.btn {
+  border-radius: 20px; }
+
+.dropdown {
+  text-align: center; }
+
+#alien1 {
+  padding-bottom: 15px; }
+
+#alien2 {
+  padding-top: 10px; }
+
+#alien3 {
+  padding-top: 120px;
+  width: 80%;
+  height: 70%; }
+
+#alien4 {
+  padding-top: 25px; }
+
+#alien5 {
+  padding-bottom: 10px; }
+
+#alien6 {
+  width: 70%;
+  height: 70%;
+  padding-top: 100px; }
+
+#alien7 {
+  width: 70%;
+  height: 70%;
+  padding-top: 60px; }
+
+#alien8 {
+  padding-top: 100px; }
+
+#alien9 {
+  width: 80%;
+  height: 80%;
+  padding-top: 70px; }
+
+/*# sourceMappingURL=style.css.map */

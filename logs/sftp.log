@@ -1,0 +1,808 @@
+Sep 27 09:01:55 10.71.51.0 u89401695 Connection from 10.71.51.0 port 15362 on 217.160.62.18 port 22
+Sep 27 09:01:58 10.71.51.0 u89401695 Failed password for u89401695 from 10.71.51.0 port 15362 ssh2
+Sep 27 09:02:09 10.71.51.0 u89401695 Connection from 10.71.51.0 port 34674 on 217.160.62.18 port 22
+Sep 27 09:02:10 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 34674 ssh2
+Sep 27 09:02:10 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 34674
+Sep 27 09:02:10 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 09:02:33 10.71.51.0 u89401695 Connection from 10.71.51.0 port 15312 on 217.160.62.18 port 22
+Sep 27 09:02:34 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 15312 ssh2
+Sep 27 09:02:34 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 15312
+Sep 27 09:02:34 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 09:02:34 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:34 10.71.51.0 u89401695 open "/composer.json" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:34 10.71.51.0 u89401695 close "/composer.json" bytes read 0 written 4
+Sep 27 09:02:34 10.71.51.0 u89401695 [10.71.51.0|put|0|4|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Sep 27 09:02:34 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:34 10.71.51.0 u89401695 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:34 10.71.51.0 u89401695 close "/header.php" bytes read 0 written 539
+Sep 27 09:02:34 10.71.51.0 u89401695 [10.71.51.0|put|0|539|0|0|0|2f6865616465722e706870|]
+Sep 27 09:02:34 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/index.php" bytes read 0 written 731
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|731|0|0|0|2f696e6465782e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/navbar.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/navbar.php" bytes read 0 written 987
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|987|0|0|0|2f6e61766261722e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:34 10.71.51.0 u89401695 Connection from 10.71.51.0 port 16708 on 217.160.62.18 port 22
+Sep 27 09:02:35 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 16708 ssh2
+Sep 27 09:02:35 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 16708
+Sep 27 09:02:35 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/objects.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/objects.php" bytes read 0 written 397
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|397|0|0|0|2f6f626a656374732e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/suspects.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/footer.php" bytes read 0 written 0
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|0|0|0|0|2f666f6f7465722e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/suspects.php" bytes read 0 written 4840
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|4840|0|0|0|2f73757370656374732e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/tatouages.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/tatouages.php" bytes read 0 written 390
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|390|0|0|0|2f7461746f75616765732e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/test-3D.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/test-3D.php" bytes read 0 written 545
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|545|0|0|0|2f746573742d33442e706870|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 mkdir name "/icons-images" mode 0777
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f69636f6e732d696d61676573|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/icons-images/.DS_Store" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 open "/icons-images/noun_Login_728843.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:35 10.71.51.0 u89401695 close "/icons-images/.DS_Store" bytes read 0 written 6148
+Sep 27 09:02:35 10.71.51.0 u89401695 [10.71.51.0|put|0|6148|0|0|0|2f69636f6e732d696d616765732f2e44535f53746f7265|]
+Sep 27 09:02:35 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/icons-images/noun_Login_728843.png" bytes read 0 written 22805
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|22805|0|0|0|2f69636f6e732d696d616765732f6e6f756e5f4c6f67696e5f3732383834332e706e67|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 mkdir name "/js" mode 0777
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 open "/js/MTTLoader.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:36 10.71.51.0 u89401695 open "/js/script.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/js/script.js" bytes read 0 written 1463
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|1463|0|0|0|2f6a732f7363726970742e6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/js/MTTLoader.js" bytes read 0 written 13354
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|13354|0|0|0|2f6a732f4d54544c6f616465722e6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 open "/js/DOM.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:36 10.71.51.0 u89401695 open "/js/OBJLoader.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/js/DOM.js" bytes read 0 written 656
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|656|0|0|0|2f6a732f444f4d2e6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/js/OBJLoader.js" bytes read 0 written 22373
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|22373|0|0|0|2f6a732f4f424a4c6f616465722e6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 open "/js/OrbitControls.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 close "/js/OrbitControls.js" bytes read 0 written 26184
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|put|0|26184|0|0|0|2f6a732f4f72626974436f6e74726f6c732e6a73|]
+Sep 27 09:02:36 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:36 10.71.51.0 u89401695 mkdir name "/models" mode 0777
+Sep 27 09:02:36 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f6d6f64656c73|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/Thumbs.db" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/Mulan.obj" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/Thumbs.db" bytes read 0 written 10752
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|10752|0|0|0|2f6d6f64656c732f5468756d62732e6462|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/Mulan.mtl" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/Mulan.mtl" bytes read 0 written 616
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|616|0|0|0|2f6d6f64656c732f4d756c616e2e6d746c|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/Mulan.obj" bytes read 0 written 168828
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|168828|0|0|0|2f6d6f64656c732f4d756c616e2e6f626a|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/texture000.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/texture000.png" bytes read 0 written 41723
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|41723|0|0|0|2f6d6f64656c732f746578747572653030302e706e67|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/texture001.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/texture001.png" bytes read 0 written 36118
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|36118|0|0|0|2f6d6f64656c732f746578747572653030312e706e67|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/Mulan.smd" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 open "/models/texture002.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:02:37 10.71.51.0 u89401695 close "/models/texture002.png" bytes read 0 written 12283
+Sep 27 09:02:37 10.71.51.0 u89401695 [10.71.51.0|put|0|12283|0|0|0|2f6d6f64656c732f746578747572653030322e706e67|]
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:37 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:38 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:38 10.71.51.0 u89401695 mkdir name "/scss" mode 0777
+Sep 27 09:02:38 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f73637373|]
+Sep 27 09:02:38 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:38 10.71.51.0 u89401695 open "/scss/style.css.map" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:38 10.71.51.0 u89401695 close "/scss/style.css.map" bytes read 0 written 294
+Sep 27 09:02:38 10.71.51.0 u89401695 [10.71.51.0|put|0|294|0|0|0|2f736373732f7374796c652e6373732e6d6170|]
+Sep 27 09:02:38 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:38 10.71.51.0 u89401695 open "/scss/style.scss" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:38 10.71.51.0 u89401695 close "/scss/style.scss" bytes read 0 written 322
+Sep 27 09:02:38 10.71.51.0 u89401695 [10.71.51.0|put|0|322|0|0|0|2f736373732f7374796c652e73637373|]
+Sep 27 09:02:38 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:02:38 10.71.51.0 u89401695 open "/scss/style.css" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:02:38 10.71.51.0 u89401695 close "/scss/style.css" bytes read 0 written 319
+Sep 27 09:02:38 10.71.51.0 u89401695 [10.71.51.0|put|0|319|0|0|0|2f736373732f7374796c652e637373|]
+Sep 27 09:02:44 10.71.51.0 u89401695 close "/models/Mulan.smd" bytes read 0 written 1556439
+Sep 27 09:02:44 10.71.51.0 u89401695 [10.71.51.0|put|7|1556439|0|0|0|2f6d6f64656c732f4d756c616e2e736d64|]
+Sep 27 09:03:38 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 09:03:38 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 09:03:44 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 09:03:44 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/test-3D.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f746573742d33442e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/tatouages.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f7461746f75616765732e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/suspects.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f73757370656374732e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/objects.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6f626a656374732e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/navbar.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6e61766261722e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/index.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f696e6465782e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/header.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6865616465722e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/footer.php"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f666f6f7465722e706870|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/composer.json"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/scss/style.css"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f736373732f7374796c652e637373|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/scss/style.scss"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f736373732f7374796c652e73637373|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/scss/style.css.map"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f736373732f7374796c652e6373732e6d6170|]
+Sep 27 09:18:43 10.71.51.0 u89401695 rmdir name "/scss"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|0|2f73637373|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/models/texture002.png"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f746578747572653030322e706e67|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/models/Mulan.smd"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f4d756c616e2e736d64|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/models/texture001.png"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f746578747572653030312e706e67|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/models/texture000.png"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f746578747572653030302e706e67|]
+Sep 27 09:18:43 10.71.51.0 u89401695 remove name "/models/Mulan.mtl"
+Sep 27 09:18:43 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f4d756c616e2e6d746c|]
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/models/Mulan.obj"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f4d756c616e2e6f626a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/models/Thumbs.db"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6d6f64656c732f5468756d62732e6462|]
+Sep 27 09:18:44 10.71.51.0 u89401695 rmdir name "/models"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|0|2f6d6f64656c73|]
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.39.1.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33392e312e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/sftp.log.38.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f736674702e6c6f672e33382e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.4.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e342e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.36.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.35.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33352e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.31.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/mail.log.31.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6d61696c2e6c6f672e33312e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.current"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.5.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e352e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.2.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e322e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.39.4"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33392e34|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.33.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.34.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33342e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.39.3.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33392e332e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.6.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e362e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.3.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e332e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.38.1.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33382e312e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:44 10.71.51.0 u89401695 remove name "/logs/access.log.32.gz"
+Sep 27 09:18:44 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Sep 27 09:18:44 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/sftp.log"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f736674702e6c6f67|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/access.log.37.gz"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/last_traffic"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f6c6173745f74726166666963|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.db"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e6462|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/info.py"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e7079|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/info.php5"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e70687035|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/info.pl"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e706c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/.htaccess"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f2e6874616363657373|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/04.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/03.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/02.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/01.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/12.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/11.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/10.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/09.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/08.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:45 10.71.51.0 u89401695 remove name "/logs/traffic.html/07.html"
+Sep 27 09:18:45 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Sep 27 09:18:45 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/logs/traffic.html/06.html"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/logs/traffic.html/.md5sums"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f2e6d643573756d73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/logs/traffic.html/05.html"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/logs/traffic.html/index.html"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/logs/traffic.html/.htaccess"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 rmdir name "/logs/traffic.html"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 09:18:46 10.71.51.0 u89401695 rmdir name "/logs"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|39|2f6c6f6773|]
+Sep 27 09:18:46 10.71.51.0 u89401695 sent status Failure
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/js/OrbitControls.js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6a732f4f72626974436f6e74726f6c732e6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/js/OBJLoader.js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6a732f4f424a4c6f616465722e6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/js/DOM.js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6a732f444f4d2e6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/js/script.js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6a732f7363726970742e6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/js/MTTLoader.js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f6a732f4d54544c6f616465722e6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 rmdir name "/js"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|0|2f6a73|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/icons-images/noun_Login_728843.png"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f69636f6e732d696d616765732f6e6f756e5f4c6f67696e5f3732383834332e706e67|]
+Sep 27 09:18:46 10.71.51.0 u89401695 remove name "/icons-images/.DS_Store"
+Sep 27 09:18:46 10.71.51.0 u89401695 [10.71.51.0|rm|0|0|0|0|0|2f69636f6e732d696d616765732f2e44535f53746f7265|]
+Sep 27 09:18:47 10.71.51.0 u89401695 rmdir name "/icons-images"
+Sep 27 09:18:47 10.71.51.0 u89401695 [10.71.51.0|rmdir|0|0|0|0|0|2f69636f6e732d696d61676573|]
+Sep 27 09:18:51 10.71.51.0 u89401695 Connection from 10.71.51.0 port 22704 on 217.160.62.18 port 22
+Sep 27 09:18:52 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 22704 ssh2
+Sep 27 09:18:52 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 22704
+Sep 27 09:18:51 10.71.51.0 u89401695 Connection from 10.71.51.0 port 22706 on 217.160.62.18 port 22
+Sep 27 09:18:52 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 22706 ssh2
+Sep 27 09:18:52 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 09:18:52 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 22706
+Sep 27 09:18:52 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/composer.json" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/composer.json" bytes read 0 written 4
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|4|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/footer.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/footer.php" bytes read 0 written 605
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|605|0|0|0|2f666f6f7465722e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/header.php" bytes read 0 written 539
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|539|0|0|0|2f6865616465722e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/navbar.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/index.php" bytes read 0 written 127
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|127|0|0|0|2f696e6465782e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/navbar.php" bytes read 0 written 987
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|987|0|0|0|2f6e61766261722e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/objects.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/suspects.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/objects.php" bytes read 0 written 411
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|411|0|0|0|2f6f626a656374732e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/suspects.php" bytes read 0 written 5221
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|5221|0|0|0|2f73757370656374732e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/tatouages.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 open "/test-3D.php" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/tatouages.php" bytes read 0 written 404
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|404|0|0|0|2f7461746f75616765732e706870|]
+Sep 27 09:18:52 10.71.51.0 u89401695 close "/test-3D.php" bytes read 0 written 622
+Sep 27 09:18:52 10.71.51.0 u89401695 [10.71.51.0|put|0|622|0|0|0|2f746573742d33442e706870|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 mkdir name "/icons-images" mode 0777
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f69636f6e732d696d61676573|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/icons-images/.DS_Store" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/icons-images/noun_Login_728843.png" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 close "/icons-images/.DS_Store" bytes read 0 written 6148
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|put|0|6148|0|0|0|2f69636f6e732d696d616765732f2e44535f53746f7265|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 close "/icons-images/noun_Login_728843.png" bytes read 0 written 22805
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|put|0|22805|0|0|0|2f69636f6e732d696d616765732f6e6f756e5f4c6f67696e5f3732383834332e706e67|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 mkdir name "/js" mode 0777
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f6a73|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/js/script.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/js/MTTLoader.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 close "/js/script.js" bytes read 0 written 1463
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|put|0|1463|0|0|0|2f6a732f7363726970742e6a73|]
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 close "/js/MTTLoader.js" bytes read 0 written 13354
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|put|0|13354|0|0|0|2f6a732f4d54544c6f616465722e6a73|]
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/js/DOM.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:53 10.71.51.0 u89401695 close "/js/DOM.js" bytes read 0 written 656
+Sep 27 09:18:53 10.71.51.0 u89401695 [10.71.51.0|put|0|656|0|0|0|2f6a732f444f4d2e6a73|]
+Sep 27 09:18:53 10.71.51.0 u89401695 open "/js/OBJLoader.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:53 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/js/OBJLoader.js" bytes read 0 written 22373
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|1|22373|0|0|0|2f6a732f4f424a4c6f616465722e6a73|]
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/js/OrbitControls.js" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/js/OrbitControls.js" bytes read 0 written 26184
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|0|26184|0|0|0|2f6a732f4f72626974436f6e74726f6c732e6a73|]
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 mkdir name "/models" mode 0777
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f6d6f64656c73|]
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/Thumbs.db" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/Mulan.obj" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/models/Thumbs.db" bytes read 0 written 10752
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|0|10752|0|0|0|2f6d6f64656c732f5468756d62732e6462|]
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/models/Mulan.obj" bytes read 0 written 168828
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|0|168828|0|0|0|2f6d6f64656c732f4d756c616e2e6f626a|]
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/Mulan.mtl" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/models/Mulan.mtl" bytes read 0 written 616
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|0|616|0|0|0|2f6d6f64656c732f4d756c616e2e6d746c|]
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/Mulan.smd" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/texture000.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:54 10.71.51.0 u89401695 close "/models/texture000.png" bytes read 0 written 41723
+Sep 27 09:18:54 10.71.51.0 u89401695 [10.71.51.0|put|0|41723|0|0|0|2f6d6f64656c732f746578747572653030302e706e67|]
+Sep 27 09:18:54 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:54 10.71.51.0 u89401695 open "/models/texture001.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/models/texture001.png" bytes read 0 written 36118
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|1|36118|0|0|0|2f6d6f64656c732f746578747572653030312e706e67|]
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 open "/models/texture002.png" flags WRITE,CREATE,TRUNCATE mode 0100755
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/models/texture002.png" bytes read 0 written 12283
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|0|12283|0|0|0|2f6d6f64656c732f746578747572653030322e706e67|]
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/models/Mulan.smd" bytes read 0 written 1556439
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|1|1556439|0|0|0|2f6d6f64656c732f4d756c616e2e736d64|]
+Sep 27 09:18:55 10.71.51.0 u89401695 mkdir name "/scss" mode 0777
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|mkdir|0|0|511|0|0|2f73637373|]
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 open "/scss/style.scss" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:55 10.71.51.0 u89401695 open "/scss/style.css.map" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/scss/style.scss" bytes read 0 written 322
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|0|322|0|0|0|2f736373732f7374796c652e73637373|]
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/scss/style.css.map" bytes read 0 written 294
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|0|294|0|0|0|2f736373732f7374796c652e6373732e6d6170|]
+Sep 27 09:18:55 10.71.51.0 u89401695 sent status No such file
+Sep 27 09:18:55 10.71.51.0 u89401695 open "/scss/style.css" flags WRITE,CREATE,TRUNCATE mode 0100644
+Sep 27 09:18:55 10.71.51.0 u89401695 close "/scss/style.css" bytes read 0 written 319
+Sep 27 09:18:55 10.71.51.0 u89401695 [10.71.51.0|put|0|319|0|0|0|2f736373732f7374796c652e637373|]
+Sep 27 09:19:55 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 09:19:55 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 09:19:58 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 09:19:58 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 09:44:41 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 09:44:41 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 13:26:21 10.71.51.0 u89401695 Connection from 10.71.51.0 port 18214 on 217.160.62.18 port 22
+Sep 27 13:26:22 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 18214 ssh2
+Sep 27 13:26:21 10.71.51.0 u89401695 Connection from 10.71.51.0 port 18212 on 217.160.62.18 port 22
+Sep 27 13:26:22 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 18212 ssh2
+Sep 27 13:26:21 10.71.51.0 u89401695 Connection from 10.71.51.0 port 18216 on 217.160.62.18 port 22
+Sep 27 13:26:22 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 18216 ssh2
+Sep 27 13:26:22 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 18214
+Sep 27 13:26:22 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 13:26:22 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 18212
+Sep 27 13:26:22 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 18216
+Sep 27 13:26:22 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 13:26:22 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/test-3D.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/tatouages.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/test-3D.php" bytes read 622 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|622|0|0|0|2f746573742d33442e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/tatouages.php" bytes read 404 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|404|0|0|0|2f7461746f75616765732e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/suspects.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/objects.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/suspects.php" bytes read 5221 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|5221|0|0|0|2f73757370656374732e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/objects.php" bytes read 411 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|411|0|0|0|2f6f626a656374732e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/navbar.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/index.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/navbar.php" bytes read 987 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|987|0|0|0|2f6e61766261722e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/index.php" bytes read 127 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|127|0|0|0|2f696e6465782e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/header.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/footer.php" flags READ mode 0666
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/footer.php" bytes read 605 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|605|0|0|0|2f666f6f7465722e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 close "/header.php" bytes read 539 written 0
+Sep 27 13:26:22 10.71.51.0 u89401695 [10.71.51.0|get|0|539|0|0|0|2f6865616465722e706870|]
+Sep 27 13:26:22 10.71.51.0 u89401695 open "/scss/style.css" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/scss/style.css" bytes read 319 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|1|319|0|0|0|2f736373732f7374796c652e637373|]
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/scss/style.css.map" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/scss/style.css.map" bytes read 294 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|0|294|0|0|0|2f736373732f7374796c652e6373732e6d6170|]
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/scss/style.scss" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/scss/style.scss" bytes read 322 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|0|322|0|0|0|2f736373732f7374796c652e73637373|]
+Sep 27 13:26:23 10.71.51.0 u89401695 sent status No such file
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/models/texture002.png" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/models/texture002.png" bytes read 12283 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|0|12283|0|0|0|2f6d6f64656c732f746578747572653030322e706e67|]
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/models/texture001.png" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/models/texture001.png" bytes read 36118 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|0|36118|0|0|0|2f6d6f64656c732f746578747572653030312e706e67|]
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/models/texture000.png" flags READ mode 0666
+Sep 27 13:26:23 10.71.51.0 u89401695 close "/models/texture000.png" bytes read 41723 written 0
+Sep 27 13:26:23 10.71.51.0 u89401695 [10.71.51.0|get|0|41723|0|0|0|2f6d6f64656c732f746578747572653030302e706e67|]
+Sep 27 13:26:23 10.71.51.0 u89401695 open "/models/Mulan.smd" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/models/Mulan.smd" bytes read 1556439 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|1|1556439|0|0|0|2f6d6f64656c732f4d756c616e2e736d64|]
+Sep 27 13:26:24 10.71.51.0 u89401695 open "/models/Mulan.mtl" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/models/Mulan.mtl" bytes read 616 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|0|616|0|0|0|2f6d6f64656c732f4d756c616e2e6d746c|]
+Sep 27 13:26:24 10.71.51.0 u89401695 open "/models/Mulan.obj" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/models/Mulan.obj" bytes read 168828 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|0|168828|0|0|0|2f6d6f64656c732f4d756c616e2e6f626a|]
+Sep 27 13:26:24 10.71.51.0 u89401695 open "/models/Thumbs.db" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/models/Thumbs.db" bytes read 10752 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|0|10752|0|0|0|2f6d6f64656c732f5468756d62732e6462|]
+Sep 27 13:26:24 10.71.51.0 u89401695 open "/logs/access.log.39.1.gz" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/logs/access.log.39.1.gz" bytes read 634 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|0|634|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e312e677a|]
+Sep 27 13:26:24 10.71.51.0 u89401695 open "/logs/sftp.log.38.gz" flags READ mode 0666
+Sep 27 13:26:24 10.71.51.0 u89401695 close "/logs/sftp.log.38.gz" bytes read 478137 written 0
+Sep 27 13:26:24 10.71.51.0 u89401695 [10.71.51.0|get|0|478137|0|0|0|2f6c6f67732f736674702e6c6f672e33382e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.38.4.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.38.4.gz" bytes read 1549 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|1549|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e342e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.36.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.36.gz" bytes read 2659 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|2659|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.35.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.35.gz" bytes read 2230 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|2230|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.31.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.31.gz" bytes read 5969 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|5969|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/mail.log.31.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/mail.log.31.gz" bytes read 318 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|318|0|0|0|2f6c6f67732f6d61696c2e6c6f672e33312e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.38.5.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.38.5.gz" bytes read 1611 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|1611|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e352e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.38.2.gz" flags READ mode 0666
+Sep 27 13:26:25 10.71.51.0 u89401695 close "/logs/access.log.38.2.gz" bytes read 338 written 0
+Sep 27 13:26:25 10.71.51.0 u89401695 [10.71.51.0|get|0|338|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e322e677a|]
+Sep 27 13:26:25 10.71.51.0 u89401695 open "/logs/access.log.39.4" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.39.4" bytes read 94865 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|1|94865|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e34|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.33.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.33.gz" bytes read 4753 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|4753|0|0|0|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.34.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.34.gz" bytes read 1262 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|1262|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.39.3.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.39.3.gz" bytes read 268 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|268|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e332e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.38.6.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.38.6.gz" bytes read 431 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|431|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e362e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.38.3.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.38.3.gz" bytes read 281 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|281|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e332e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.38.1.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.38.1.gz" bytes read 180 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|180|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e312e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/access.log.32.gz" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/access.log.32.gz" bytes read 2250 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|2250|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Sep 27 13:26:26 10.71.51.0 u89401695 open "/logs/sftp.log" flags READ mode 0666
+Sep 27 13:26:26 10.71.51.0 u89401695 close "/logs/sftp.log" bytes read 51126 written 0
+Sep 27 13:26:26 10.71.51.0 u89401695 [10.71.51.0|get|0|51126|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/access.log.37.gz" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/access.log.37.gz" bytes read 2059 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|2059|0|0|0|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/last_traffic" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/last_traffic" bytes read 0 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/traffic.db" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/traffic.db" bytes read 45056 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|45056|0|0|0|2f6c6f67732f747261666669632e6462|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/info.py" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/info.py" bytes read 6384 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/info.php5" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/info.php5" bytes read 21 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/info.pl" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/info.pl" bytes read 4176 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/.htaccess" flags READ mode 0666
+Sep 27 13:26:27 10.71.51.0 u89401695 close "/logs/.htaccess" bytes read 267 written 0
+Sep 27 13:26:27 10.71.51.0 u89401695 [10.71.51.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Sep 27 13:26:27 10.71.51.0 u89401695 open "/logs/traffic.html/04.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/04.html" bytes read 11192 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|1|11192|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/03.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/03.html" bytes read 11539 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|11539|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30332e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/02.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/02.html" bytes read 10502 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|10502|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/01.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/01.html" bytes read 11184 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|11184|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/12.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/12.html" bytes read 11192 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|11192|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/11.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/11.html" bytes read 10849 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|10849|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/10.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/10.html" bytes read 10881 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|10881|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/09.html" flags READ mode 0666
+Sep 27 13:26:28 10.71.51.0 u89401695 close "/logs/traffic.html/09.html" bytes read 8496 written 0
+Sep 27 13:26:28 10.71.51.0 u89401695 [10.71.51.0|get|0|8496|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Sep 27 13:26:28 10.71.51.0 u89401695 open "/logs/traffic.html/08.html" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/08.html" bytes read 10554 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|1|10554|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/07.html" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/07.html" bytes read 10203 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|10203|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/06.html" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/06.html" bytes read 11220 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|11220|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 sent status Permission denied
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/05.html" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/05.html" bytes read 11539 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|11539|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/index.html" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/index.html" bytes read 7451 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|7451|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/composer.json" flags READ mode 0666
+Sep 27 13:26:29 10.71.51.0 u89401695 close "/composer.json" bytes read 4 written 0
+Sep 27 13:26:29 10.71.51.0 u89401695 [10.71.51.0|get|0|4|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Sep 27 13:26:29 10.71.51.0 u89401695 open "/logs/access.log.39.4" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/js/OrbitControls.js" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/logs/access.log.39.4" bytes read 94865 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|1|94865|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e34|]
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/js/OrbitControls.js" bytes read 26184 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|26184|0|0|0|2f6a732f4f72626974436f6e74726f6c732e6a73|]
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/js/DOM.js" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/js/OBJLoader.js" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/js/DOM.js" bytes read 656 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|656|0|0|0|2f6a732f444f4d2e6a73|]
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/js/OBJLoader.js" bytes read 22373 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|22373|0|0|0|2f6a732f4f424a4c6f616465722e6a73|]
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/js/MTTLoader.js" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/js/script.js" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/js/MTTLoader.js" bytes read 13354 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|13354|0|0|0|2f6a732f4d54544c6f616465722e6a73|]
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/js/script.js" bytes read 1463 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|1463|0|0|0|2f6a732f7363726970742e6a73|]
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/icons-images/noun_Login_728843.png" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 open "/icons-images/.DS_Store" flags READ mode 0666
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/icons-images/.DS_Store" bytes read 6148 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|6148|0|0|0|2f69636f6e732d696d616765732f2e44535f53746f7265|]
+Sep 27 13:26:30 10.71.51.0 u89401695 close "/icons-images/noun_Login_728843.png" bytes read 22805 written 0
+Sep 27 13:26:30 10.71.51.0 u89401695 [10.71.51.0|get|0|22805|0|0|0|2f69636f6e732d696d616765732f6e6f756e5f4c6f67696e5f3732383834332e706e67|]
+Sep 27 13:27:30 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 13:27:30 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 13:27:30 10.71.51.0 u89401695 Connection closed by 10.71.51.0
+Sep 27 13:27:30 10.71.51.0 u89401695 session closed for local user u89401695 from [10.71.51.0]
+Sep 27 13:29:17 10.71.51.0 u89401695 sent status No such file
+Sep 27 13:29:17 10.71.51.0 u89401695 Connection from 10.71.51.0 port 14440 on 217.160.62.18 port 22
+Sep 27 13:29:18 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 14440 ssh2
+Sep 27 13:29:17 10.71.51.0 u89401695 Connection from 10.71.51.0 port 14448 on 217.160.62.18 port 22
+Sep 27 13:29:18 10.71.51.0 u89401695 Accepted password for u89401695 from 10.71.51.0 port 14448 ssh2
+Sep 27 13:29:18 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 14440
+Sep 27 13:29:18 10.71.51.0 u89401695 Starting session: subsystem 'sftp' for u89401695 from 10.71.51.0 port 14448
+Sep 27 13:29:18 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 13:29:18 10.71.51.0 u89401695 session opened for local user u89401695 from [10.71.51.0]
+Sep 27 13:29:18 10.71.51.0 u89401695 open "/test-3D.php" flags READ mode 0666
+Sep 27 13:29:18 10.71.51.0 u89401695 close "/test-3D.php" bytes read 622 written 0
+Sep 27 13:29:18 10.71.51.0 u89401695 [10.71.51.0|get|0|622|0|0|0|2f746573742d33442e706870|]
+Sep 27 13:29:22 10.71.51.0 u89401695 open "/tatouages.php" flags READ mode 0666
+Sep 27 13:29:22 10.71.51.0 u89401695 close "/tatouages.php" bytes read 404 written 0
+Sep 27 13:29:22 10.71.51.0 u89401695 [10.71.51.0|get|0|404|0|0|0|2f7461746f75616765732e706870|]
+Sep 27 13:29:22 10.71.51.0 u89401695 open "/objects.php" flags READ mode 0666
+Sep 27 13:29:22 10.71.51.0 u89401695 close "/objects.php" bytes read 411 written 0
+Sep 27 13:29:22 10.71.51.0 u89401695 [10.71.51.0|get|0|411|0|0|0|2f6f626a656374732e706870|]
+Sep 27 13:29:22 10.71.51.0 u89401695 open "/navbar.php" flags READ mode 0666
+Sep 27 13:29:22 10.71.51.0 u89401695 close "/navbar.php" bytes read 987 written 0
+Sep 27 13:29:22 10.71.51.0 u89401695 [10.71.51.0|get|0|987|0|0|0|2f6e61766261722e706870|]
+Sep 27 13:29:23 10.71.51.0 u89401695 open "/suspects.php" flags READ mode 0666
+Sep 27 13:29:23 10.71.51.0 u89401695 close "/suspects.php" bytes read 5221 written 0
+Sep 27 13:29:23 10.71.51.0 u89401695 [10.71.51.0|get|0|5221|0|0|0|2f73757370656374732e706870|]
+Sep 27 13:29:23 10.71.51.0 u89401695 open "/header.php" flags READ mode 0666
+Sep 27 13:29:23 10.71.51.0 u89401695 close "/header.php" bytes read 539 written 0
+Sep 27 13:29:23 10.71.51.0 u89401695 [10.71.51.0|get|0|539|0|0|0|2f6865616465722e706870|]
+Sep 27 13:29:24 10.71.51.0 u89401695 open "/footer.php" flags READ mode 0666
+Sep 27 13:29:24 10.71.51.0 u89401695 close "/footer.php" bytes read 605 written 0
+Sep 27 13:29:24 10.71.51.0 u89401695 [10.71.51.0|get|0|605|0|0|0|2f666f6f7465722e706870|]
+Sep 27 13:29:25 10.71.51.0 u89401695 open "/index.php" flags READ mode 0666
+Sep 27 13:29:25 10.71.51.0 u89401695 open "/composer.json" flags READ mode 0666
+Sep 27 13:29:25 10.71.51.0 u89401695 close "/composer.json" bytes read 4 written 0
+Sep 27 13:29:25 10.71.51.0 u89401695 [10.71.51.0|get|0|4|0|0|0|2f636f6d706f7365722e6a736f6e|]
+Sep 27 13:29:25 10.71.51.0 u89401695 close "/index.php" bytes read 127 written 0
+Sep 27 13:29:25 10.71.51.0 u89401695 [10.71.51.0|get|0|127|0|0|0|2f696e6465782e706870|]
+Sep 27 13:29:25 10.71.51.0 u89401695 open "/scss/style.css" flags READ mode 0666
+Sep 27 13:29:25 10.71.51.0 u89401695 open "/scss/style.css.map" flags READ mode 0666
+Sep 27 13:29:25 10.71.51.0 u89401695 close "/scss/style.css" bytes read 319 written 0
+Sep 27 13:29:25 10.71.51.0 u89401695 [10.71.51.0|get|0|319|0|0|0|2f736373732f7374796c652e637373|]
+Sep 27 13:29:25 10.71.51.0 u89401695 close "/scss/style.css.map" bytes read 294 written 0
+Sep 27 13:29:25 10.71.51.0 u89401695 [10.71.51.0|get|0|294|0|0|0|2f736373732f7374796c652e6373732e6d6170|]
+Sep 27 13:29:25 10.71.51.0 u89401695 open "/scss/style.scss" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/scss/style.scss" bytes read 322 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|1|322|0|0|0|2f736373732f7374796c652e73637373|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/texture002.png" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/texture002.png" bytes read 12283 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|12283|0|0|0|2f6d6f64656c732f746578747572653030322e706e67|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/texture001.png" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/texture000.png" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/texture001.png" bytes read 36118 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|36118|0|0|0|2f6d6f64656c732f746578747572653030312e706e67|]
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/texture000.png" bytes read 41723 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|41723|0|0|0|2f6d6f64656c732f746578747572653030302e706e67|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/Mulan.smd" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/Mulan.mtl" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/Mulan.mtl" bytes read 616 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|616|0|0|0|2f6d6f64656c732f4d756c616e2e6d746c|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/Mulan.obj" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/Mulan.smd" bytes read 1556439 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|1556439|0|0|0|2f6d6f64656c732f4d756c616e2e736d64|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/models/Thumbs.db" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/Mulan.obj" bytes read 168828 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|168828|0|0|0|2f6d6f64656c732f4d756c616e2e6f626a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/models/Thumbs.db" bytes read 10752 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|10752|0|0|0|2f6d6f64656c732f5468756d62732e6462|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/access.log.39.1.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/access.log.39.1.gz" bytes read 634 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|634|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e312e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/sftp.log.38.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/access.log.38.4.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/sftp.log.38.gz" bytes read 478137 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|478137|0|0|0|2f6c6f67732f736674702e6c6f672e33382e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/access.log.38.4.gz" bytes read 1549 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|1549|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e342e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/access.log.35.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/access.log.36.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/access.log.36.gz" bytes read 2659 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|2659|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/access.log.35.gz" bytes read 2230 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|2230|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/access.log.31.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 open "/logs/mail.log.31.gz" flags READ mode 0666
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/mail.log.31.gz" bytes read 318 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|318|0|0|0|2f6c6f67732f6d61696c2e6c6f672e33312e677a|]
+Sep 27 13:29:26 10.71.51.0 u89401695 close "/logs/access.log.31.gz" bytes read 5969 written 0
+Sep 27 13:29:26 10.71.51.0 u89401695 [10.71.51.0|get|0|5969|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.38.5.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.38.2.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.38.2.gz" bytes read 338 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.38.5.gz" bytes read 1611 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|1611|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e352e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|338|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e322e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.39.4" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.33.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.33.gz" bytes read 4753 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.39.4" bytes read 94865 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|4753|0|0|0|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|94865|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e34|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.34.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.39.3.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.34.gz" bytes read 1262 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|1262|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.39.3.gz" bytes read 268 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|268|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e332e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.38.6.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.38.3.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.38.6.gz" bytes read 431 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|431|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e362e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.38.3.gz" bytes read 281 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|281|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e332e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.38.1.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/access.log.32.gz" flags READ mode 0666
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.38.1.gz" bytes read 180 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|180|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e312e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 close "/logs/access.log.32.gz" bytes read 2250 written 0
+Sep 27 13:29:27 10.71.51.0 u89401695 [10.71.51.0|get|0|2250|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Sep 27 13:29:27 10.71.51.0 u89401695 open "/logs/sftp.log" flags READ mode 0666
